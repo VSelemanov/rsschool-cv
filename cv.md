@@ -10,11 +10,11 @@
 
 E-mail: v.selemanov@mail.ru
 
-Phone number: +7 (910) 123-97-80
+Phone number: [+7(910)123-97-80](tel:89101239780)
 
-Skype: many14_95
+Skype: [many14_95](skype:many14_95)
 
-VK: https://vk.com/selemanov
+Social networks: [VK](https://vk.com/selemanov), [Instagram](https://www.instagram.com/selemanov_vlad/)
 
 ## SUMMARY
 
@@ -209,8 +209,8 @@ VS Code, Docker, Rancher, Git, PgAdmin, Sequelize ORM
 
 ## LINKS TO COURCE CODE
 
-- Test task for current job (the four-in-line game): https://github.com/VSelemanov/four-in-line
-- Last freelance game project (my role in project - backend developer): https://github.com/VSelemanov/NNGame
+- Test task for current job (the four-in-line game): [Four in line](https://github.com/VSelemanov/four-in-line)
+- Last freelance game project (my role in project - backend developer): [NN Game](https://github.com/VSelemanov/NNGame)
 
 ## EDUCATION
 
@@ -226,7 +226,7 @@ Computer science and computer engineering – Computing machines
 
 **April, 24, 2018** - EPAM INSIDER (conference)
 
-Learn some courses in codecademy.com and htmlacademy.ru
+Learn some courses in [codecademy.com](https://codecademy.com) and [htmlacademy.ru](https://htmlacademy.ru) on start of my developer career.
 
 ## ENGLISH SKILLS
 
