@@ -13,6 +13,11 @@ body {
 ul {
   list-style-type: none;
 }
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #9272b5;
+}
 
 ul.disc {
   list-style-type: disc;
@@ -94,21 +99,30 @@ ul.disc {
   grid-template-columns: 1fr 1fr;
 }
 
+.extended-info h3 {
+  text-transform: uppercase;
+  font-size: 18px;
+  letter-spacing: 3px;
+  margin-top: 10px;
+}
+
 .left-column,
 .right-column {
   padding: 10px;
 }
 
-.left-column .row,
-.right-column .row {
+.extended-info .row {
   margin-top: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #d0d0d0;
 }
 
-.left-column .row:first-child,
-.right-column .row:first-child {
+.extended-info .row {
   margin-top: 0px;
+}
+
+.extended-info .row p {
+  margin-top: 10px;
 }
 
 .extended-info h2 {
@@ -117,4 +131,21 @@ ul.disc {
   letter-spacing: 5px;
   text-transform: uppercase;
   margin-bottom: 10px;
+}
+
+.icon::before {
+  content: "";
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  vertical-align: middle;
+  background-size: 100%;
+  margin-left: 10px;
+}
+
+.vk::before {
+  background-image: url("https://cdn.worldvectorlogo.com/logos/vk-1.svg");
+}
+.instagram::before {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png");
 }
